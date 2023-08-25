@@ -12,4 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-----
 ![Header](bannerGDSC.jpg)
+
+-----
+## Google Developer Student Clubs, Amrita School Of Computing, Coimbatore
+----
+Official Repository for GDSC and Project Hack Team - Chapter 2023 - 2024
+-------
+
+[![GDSC's GitHub stats](https://github-readme-stats.vercel.app/api?username=GDSCASECBE&show_icons=true)](https://github.com/GDSCASECBE/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GDSCASECBE)](https://git.io/streak-stats)
