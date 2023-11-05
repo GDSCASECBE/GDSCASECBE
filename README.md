@@ -76,10 +76,9 @@
 ---
 <h2 align="left">Connect With Us 🌐</h2>
 
-- **Website:** gdsc-amrita.github.io 🌐
-- **GitHub Organization:** github.com/gdsc-amrita 🐙
-- **Facebook:** facebook.com/gdscamrita 👍
-- **Instagram:** instagram.com/gdsc.amrita 📸
+- **Website:** https://gdsc.community.dev/amrita-school-of-computing-coimbatore/ 🌐
+- **GitHub Organization:** https://github.com/GDSCASECBE/ 🐙
+- **Instagram:** instagram.com/gdsc.ase.cbe 📸
 ###
 
 ---
