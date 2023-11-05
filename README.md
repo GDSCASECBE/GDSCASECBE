@@ -46,8 +46,31 @@
   </li>
 </ul>
 
-###
----
+---------
+<h1 align=center> Project Maintainers </h1>
+<p align="center">
+<table align="center">
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/pranavsuriya-sr"><img alt="" src="https://avatars.githubusercontent.com/pranavsuriya-sr" width="125px;"><br><sub><b> S R Pranav Suriya - Lead </b></sub></a><br></td> 
+    <td align="center"><a href="https://github.com/Barathj121"><img alt="" src="https://avatars.githubusercontent.com/Barathj121" width="125px;"><br><sub><b> Barath Kumar - Executive </b></sub></a><br></td> </a>
+  <td align="center"><a href="https://github.com/SANTHOSH-SACHIN"><img alt="" src="https://avatars.githubusercontent.com/SANTHOSH-SACHIN" width="125px;"><br><sub><b> Santhosh Sachin - AI/ML </b></sub></a><br></td> </a>
+  <td align="center"><a href="https://github.com/Sajithrajan03"><img alt="" src="https://avatars.githubusercontent.com/Sajithrajan03" width="125px;"><br><sub><b> Sajith Rajan - Android </b></sub></a><br></td> </a>
+</a>
+</td>
+
+</tbody></table>
+
+<table align="center">
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/FirefoxSRV"><img alt="" src="https://avatars.githubusercontent.com/FirefoxSRV" width="125px;"><br><sub><b> Shreyas - Android </b></sub></a><br></td> </a> 
+      <td align="center"><a href="https://github.com/Siddhu2502"><img alt="" src="https://avatars.githubusercontent.com/Siddhu2502" width="125px;"><br><sub><b> Siddharth - Web</b></sub></a><br></td> </a>
+  <td align="center"><a href="https://github.com/yashnair007"><img alt="" src="https://avatars.githubusercontent.com/yashnair007" width="125px;"><br><sub><b> Yash - Android</b></sub></a><br></td> </a>
+  <td align="center"><a href="https://github.com/Ashrockzzz2003"><img alt="" src="https://avatars.githubusercontent.com/Ashrockzzz2003" width="125px;"><br><sub><b> Ashwin Narayanan - DevOps</b></sub></a><br></td> </a>
+  </a>
+</td>
+
+</tbody></table>
+
 <h2 align="left">Tech Stack used by us</h2>
 
 ###
