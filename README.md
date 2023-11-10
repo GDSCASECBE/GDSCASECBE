@@ -113,6 +113,4 @@
 
 ###
 
-![Snake animation](https://github.com/Siddhu2502/siddhu2502/blob/output/github-snake-dark.svg)
 
-###
